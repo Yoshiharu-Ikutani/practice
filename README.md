@@ -1,7 +1,5 @@
 # practice
 for practice to Github 
-
-modified in both repository
-modified in remote repository
-add text related to #1
-add text and close #1
+test test test test
+hoge hoge hoge hoge
+fizz buzz fizz buzz
